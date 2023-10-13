@@ -25,7 +25,4 @@ Este é um simples gravador de áudio em Python que permite aos usuários gravar
 
 Sinta-se à vontade para contribuir para este projeto. Você pode abrir problemas, sugerir melhorias e enviar solicitações de pull.
 
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
